@@ -1,0 +1,11 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - Проекты:
+      - "Конструктор образовательных программ": projects/kop.md
+      - "picking herbs": professions/picking_herbs.md
+  - Api:
+      - "api/warriors[GET]": api/warriors.md
+
+theme:
+  name: material
