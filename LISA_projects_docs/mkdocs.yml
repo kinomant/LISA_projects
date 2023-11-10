@@ -1,11 +1,9 @@
-site_name: My Docs
+site_name: Проекты
 nav:
   - Home: index.md
   - Проекты:
       - "Конструктор образовательных программ": projects/kop.md
-      - "picking herbs": professions/picking_herbs.md
-  - Api:
-      - "api/warriors[GET]": api/warriors.md
+      - "LearnSQL": projects/learnsql.md
 
 theme:
-  name: material
+  name: dracula

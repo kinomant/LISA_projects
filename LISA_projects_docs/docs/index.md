@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Описание проектов Говорова А.И. и Хлопотова М.В. в рамках работы в лаборатории LISA
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Проекты:
+### [Проект “Конструктор образовательных программ” (op.itmo.ru)](projects/kop.md)
+Разрабатывается с 2019 года. Реализация документооборота образовательных документов в университете итмо. В рамках лаборатории для работы с документами внедряются методы LLM.
+### [Проект “LearnSQL” (learnsql.ru)](projects/learnsql.md)
+Онлайн курс по обучению базам данных. В рамках лаборатории будут внедряться методы индивидуализации процесса обучения. Возможна разработка курсов и онлайн тренажеров для обучения различным языкам программирования.
+### Другие образовательные проекты, в том числе предложенные студентами
 
-## Commands
+### Задачи в рамках проектов:
+- Автоматизация работы модулей машинного обучения в связке с другими сервисами (DevOps-инженерия: docker / Git / ??)
+- Разработка пользовательских интерфейсов (Frontend-разработка: JS / React / ??)
+- Разработка серверной части для поддержки клиентских интерфейсов (Backend-разработка: Python / DRF / ??)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Роли в рамках проектов:
+- ML-researcher
+- ML-инженер
+- бэкенд-разработчик
+- фронтенд-разработчик
+- бизнес-аналитик
+- DevOps-инженер
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
